@@ -1,0 +1,3 @@
+因android設備可能有較舊的設備,接收arduino訊息會過慢,而無法完全接收
+到字元,所以需在appinventor2裡的程式碼更改clock1的時間間隔100ms-->500ms
+
